@@ -20,7 +20,7 @@ The catch share card is created only when you tap Share. It goes to the app you 
 The app has the INTERNET permission to download public conditions data (such as NOAA buoy, tide and National Weather Service forecasts, and Open-Meteo weather). These requests identify the area you follow, not you. No account, advertising ID or personal details are sent. Links to landing websites open in your browser and are governed by those sites' own policies.
 
 ## Location, ads, analytics
-Location is optional. The app asks for your location only when you tap a button that needs it, such as "Use my location" on a catch pin or finding your fishing regulations area. Your location is used on your device for that action, saved only if you save the catch pin, and never sent to us or anyone else. The app contains no advertising or analytics code.
+Location is optional. The app may offer location access when you first open it, and you can decline; you can change this later in Settings or by tapping a location button. Location is used on your device only (for catch pins and finding your fishing regulations area), saved only on a catch pin you save, and never sent to us or anyone else. The app contains no advertising or analytics code.
 
 ## Children
 The app is not directed to children and collects no data from anyone.
