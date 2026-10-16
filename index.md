@@ -1,14 +1,14 @@
 # Wide Open Privacy Policy
 
-_Last updated: October 15, 2026_
+_Last updated: October 16, 2026_
 
 This policy covers the Android app published as **Wide Open** (package `com.treyfishing.app`).
 
 ## Summary
-The app has no accounts and no ads. It does not collect, share or sell personal data. Everything you enter is private and stays on your phone. Your location is never sent to us or anyone else, and the only positions the app keeps are a catch pin you choose to save, a map pin you drop and name, the spots of a run you plan or save, and a boat trail recorded during a trip while the app's trip notification shows (on by default for public charter trips, off for private trips, and you can turn it off). Nothing you enter leaves your phone unless you send it yourself, or Android backup copies it to your own Google account.
+Currently the app has no accounts and no ads. Currently it does not collect, share or sell personal data. Everything you enter is private and, in this version, stays on your phone. In this version your location is not sent to us or anyone else, and the only positions the app keeps are a catch pin you choose to save, a map pin you drop and name, the spots of a run you plan or save, and a boat trail recorded during a trip while the app's trip notification shows (on by default for public charter trips, off for private trips, and you can turn it off). Nothing you enter leaves your phone unless you send it yourself, or Android backup copies it to your own Google account.
 
 ## Private and public
-Everything you enter in Wide Open is private: trips, catches, catch pins, map pins, boat trails, planned and saved runs and their spots, Lookout finds, Lines in times, boats, spots, notes, photos, gear and settings. There is no public profile, feed or map, and nothing you log is posted anywhere or shown to other anglers. Where the app says "Public charter", that is only a kind of trip (a boat you book a spot on), not a sharing setting. The only public information in the app is information that was already public, such as NOAA and weather data, the landings directory, regulations and the species and knots guides. If we ever add a way to share your catches or trips with others, it will be off for every item until you choose to share that item, it will show you exactly what others will see first, it will never show your pins (catch pins or map pins), spot notes or position, and this policy will be updated before it arrives.
+Everything you enter in Wide Open is private: trips, catches, catch pins, map pins, boat trails, planned and saved runs and their spots, Lookout finds, Lines in times, boats, spots, notes, photos, gear and settings. Currently there is no public profile, feed or map, and nothing you log is posted anywhere or shown to other anglers. Where the app says "Public charter", that is only a kind of trip (a boat you book a spot on), not a sharing setting. The only public information in the app is information that was already public, such as NOAA and weather data, the landings directory, regulations and the species and knots guides. If we ever add a way to share your catches or trips with others, it will be off for every item until you choose to share that item, it will show you exactly what others will see first, it will never show your pins (catch pins or map pins), spot notes or position, and this policy will be updated before it arrives.
 
 ## Data you enter
 Trips, packing lists, tackle, boats, map pins, planned and saved runs, and catch logs (including photos you choose) are stored only on your device. We have no servers and cannot see them. If you uninstall the app or clear its data, they are deleted. You can export your own data as CSV from Settings; the export does not include catch pins, map pins, boat trails, boats or runs. You can also save a backup file from Settings to move to a new phone. A backup holds your log, including catch pins, map pins, boat trails, planned and saved runs and photos, and goes only where you save it, so keep it somewhere private. If you use Android's backup, Google may back up the app's database, including saved catch pins, map pins, boat trails and runs, under your own Google account settings; photos and the app's usage counts are not part of that backup. Lookout finds, Lines in times and the boat link's address stay out of backup files and Android's cloud backup (see those sections below).
@@ -57,13 +57,13 @@ Settings has a Send feedback screen. A report you write is saved on your phone a
 Notifications are optional. The app asks for notification permission only when you turn one on: "Show on lock screen" on the On the water card, "Trip on the lock screen" in Settings, or trip reminders. The trip notification shows your current trip on the lock screen; if your lock screen hides sensitive content, it shows only "On the water" and the back time (plus "Trail on" while a boat trail records, or "Trail stopped, back on land" after it stops by itself), and it goes away when the trip ends. Trip reminders are scheduled on your phone for trips you planned, and are set again after the phone restarts. Both are built on your phone, and nothing about them is sent anywhere.
 
 ## Ads and analytics
-The app contains no advertising. It keeps simple counts of which features you use on your device to help improve the app; these counts are not sent anywhere.
+This version contains no advertising and no advertising or tracking code. It keeps simple counts of which features you use on your device to help improve the app; currently these counts are not sent anywhere.
 
 ## Children
-The app is not directed to children and collects no data from anyone.
+The app is not directed to children and currently collects no data from anyone.
 
 ## Changes
-If this policy changes, the updated version will be posted at this address with a new date.
+This policy describes how Wide Open works in the version you have today. Wide Open may change over time, for example by adding optional features such as backup or sharing. If a change affects what data the app collects, stores off your phone or shares, we will update this policy and its date before that version is released, and any new feature that sends data will be off until you choose to use it. Using a later version means the updated policy applies to it.
 
 ## Contact
 wideopenfishingapp@gmail.com
