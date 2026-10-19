@@ -1,6 +1,6 @@
 # Wide Open Privacy Policy
 
-_Last updated: October 16, 2026_
+_Last updated: October 19, 2026_
 
 This policy covers the Android app published as **Wide Open** (package `com.treyfishing.app`).
 
