@@ -71,7 +71,7 @@ Notifications are optional. The app asks for notification permission only when y
 This version contains no advertising and no advertising or tracking code. It keeps simple counts of which features you use on your device to help improve the app; currently these counts are not sent anywhere.
 
 ## Children
-The app is not directed to children and currently collects no data from anyone.
+Wide Open is for anglers 18 and older and is not directed to children. Accounts require you to confirm you are 18 or older, and we do not knowingly collect personal information from anyone under 18. If you think a child has an account, email wideopenfishingapp@gmail.com and we will delete it.
 
 ## Changes
 This policy describes how Wide Open works in the version you have today. Wide Open may change over time, for example by adding optional features such as backup or sharing. If a change affects what data the app collects, stores off your phone or shares, we will update this policy and its date before that version is released, and any new feature that sends data will be off until you choose to use it. Using a later version means the updated policy applies to it.
